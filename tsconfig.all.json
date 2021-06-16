@@ -1,0 +1,9 @@
+{
+    "$schema": "https://schemastore.azurewebsites.net/schemas/json/tsconfig.json",
+    "files": [],
+    "references": [
+        { "path": "packages/core" },
+        { "path": "packages/math" },
+        { "path": "packages/physics" }
+    ]
+}
